@@ -7,3 +7,8 @@
 //
 
 import Foundation
+
+struct CountyList {
+    var countryName: String
+    var countryCode: String
+}
